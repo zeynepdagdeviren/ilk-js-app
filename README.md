@@ -1,1 +1,1 @@
-# ilk-js-app
+bu benim ilk debeme repom.
