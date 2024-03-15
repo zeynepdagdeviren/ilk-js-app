@@ -1,1 +1,1 @@
-bu benim ilk debeme repom.
+bu benim ilk deneme repom.
